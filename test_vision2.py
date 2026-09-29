@@ -54,7 +54,7 @@ Provide a detailed analysis containing:
 10. Overall summary
 11. Any important relationships between visual elements and text
 
-Be accurate and only describe information that is actually visible.
+Be accurate and only describe information that is actually visible in the slides.
 Do not invent information.
 """
 
