@@ -42,7 +42,7 @@ Analyze this image as if it were a presentation slide.
 
 Provide a detailed analysis containing:
 
-1. Title
+1. Title 
 2. All visible text
 3. Main subject/topic
 4. Important visual elements
