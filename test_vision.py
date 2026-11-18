@@ -21,6 +21,7 @@ response = requests.post(
                     "Describe the title, text, images, diagrams, "
                     "charts, and the main message of the slide."
                     "Describe the text in the slide in detail."
+                    "Give a short summary of the slide"
                 ),
                 "images": [image]
             }
